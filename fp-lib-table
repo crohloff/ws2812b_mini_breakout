@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ws2812_inPCB)(type KiCad)(uri ${KIPRJMOD}/custom_footprints/ws2812_inPCB.pretty)(options "")(descr ""))
+  (lib (name custom_footprints)(type KiCad)(uri ${KIPRJMOD}/custom_footprints)(options "")(descr ""))
+)
